@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @felipebremgar
 - 👀 I’m interested in web and mobile dev
-- 🌱 I’m currently learning flutter
 - 📫 How to reach me felipe.fonseca.bremgartner@gmail.com and https://www.linkedin.com/in/felipe-bremgartner-a4925a137/
 
 <!---
